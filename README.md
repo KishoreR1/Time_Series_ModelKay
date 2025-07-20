@@ -121,7 +121,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Developed by **\[R.Kishore]**
 📧 [mail.r.kishore@gmail.com]
-🌐 [github.com/your-KishoreR1](https://github.com/PratikPhysics/time_series/)
+🌐 [github.com/KishoreR1/TimeSeries]
 
 ---
 
